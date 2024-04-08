@@ -29,6 +29,8 @@ INSTALAR DE LA SIGUIENTE FORMA:
   pip install Requirements.txt
 ```
 
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
@@ -37,6 +39,6 @@ INSTALAR DE LA SIGUIENTE FORMA:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,mysql,py,django,vscode,conda&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,discord,github,gcp,mysql,py,django,vscode,anaconda,notion&perline=14" />
   </a>
 </p>
