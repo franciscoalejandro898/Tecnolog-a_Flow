@@ -26,7 +26,7 @@ INSTALAR DE LA SIGUIENTE FORMA:
 
 ```bash
   cd my-project
-  pip install Requirements.txt
+  pip install -r Requirements.txt
 ```
 
 
